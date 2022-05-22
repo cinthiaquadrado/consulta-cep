@@ -4,9 +4,13 @@ body {
 }
 .container {
     margin-top: 45px;
-    width: 50%;
+    width: 65%;
     border-radius: 20px;
     padding: 25px;
     background-color:rgb(231, 223, 223);
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+h1 {
+    text-align: center;
 }
